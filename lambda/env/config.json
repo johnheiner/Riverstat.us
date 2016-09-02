@@ -1,0 +1,9 @@
+{
+	"riverstatusHydrograph": {
+		"JSONP_FUNCTION_NAME": "riverstatusHydrograph",
+		"AWS_S3_BUCKET_NAME": "riverstat.us",
+		"AWS_S3_JSONP_KEY": "riverstatus.json",
+		"DEV_DIST_FILENAME": "dist.zip",
+		"XML_ENDPOINT": "http://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=rmdv2&output=xml"
+	}
+}
