@@ -11,10 +11,12 @@ http://waterservices.usgs.gov/nwis/iv/?format=json&indent=on&sites=02037500&para
 http://waterservices.usgs.gov/nwis/dv/?format=json&indent=on&sites=02037500&parameterCd=00065,00060,00010
 
 Weather need to get:
+ - Forecast API | https://developer.forecast.io/ | login: heiner.john@gmail.com pw: riverstat.us
+ - Free Limit = 1000 requests/day
  - Current Air Temperature
  - Forecast for the day
  - https://api.forecast.io/forecast/2fa348183757f6374b46cf6bc670dc92/37.5632022,-77.5469314
- - login: heiner.john@gmail.com pw: riverstat.us
+ -
 
 Overall need:
  - Time last updated (need to account for Daylight savings time)
