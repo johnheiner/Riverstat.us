@@ -28,9 +28,3 @@ node_modules
 
 dist/
 dist.zip
-# config.env.production
-# gulp.env.development
-# production.env
-# *.env
-# env
-# env/*
