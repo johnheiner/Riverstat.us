@@ -20,3 +20,6 @@ Weather need to get:
 
 Overall need:
  - Time last updated (need to account for Daylight savings time)
+
+Design:
+- https://dribbble.com/shots/3104398-Data-Overlays/attachments/655150
